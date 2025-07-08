@@ -4,23 +4,6 @@ This project uses **data analysis** and **machine learning** techniques to predi
 
 ---
 
-## 📂 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Preprocessing](#preprocessing)
-- [Feature Selection](#feature-selection)
-- [Modeling](#modeling)
-- [Evaluation](#evaluation)
-- [Chris Paul Prediction](#chris-paul-prediction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [License](#license)
-
----
-
 ## 🧠 Overview
 
 The goal of this project is to answer the question:
